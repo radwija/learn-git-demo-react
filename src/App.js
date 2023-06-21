@@ -9,6 +9,7 @@ function App() {
     <div className="App">
       <MyNavbar />
       <HelloWorldComp />
+      <HelloWorldComp />
       <Footer />
     </div>
   );
